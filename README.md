@@ -49,3 +49,10 @@ permutation_plot(prop_test)
 ```
 
 ![example_plot](inst/images/example_plot.png)
+
+
+## Cite scProportionTest
+
+If this function is useful for your research, please cite this study:
+
+Miller SA, Policastro RA, Sriramkumar S, Lai T, Huntington TD, Ladaika CA, et al. LSD1 and aberrant DNA methylation mediate persistence of enteroendocrine progenitors That Support BRAF-mutant colorectal cancer. Cancer Res. 2021;81:3791–805.
