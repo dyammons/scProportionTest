@@ -11,7 +11,7 @@ There is also a function to generate a point range plot to display the results.
 Use devtools to install the R library.
 
 ```
-devtools::install_github("rpolicastro/scProportionTest")
+devtools::install_github("dyammons/scProportionTest")
 ```
 
 ## Getting Started
